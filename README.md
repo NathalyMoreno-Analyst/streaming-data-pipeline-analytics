@@ -22,9 +22,11 @@ The project follows a professional **Modular Architecture**, separating concerns
 * **DevOps/Tooling:** Git, OS-Path Automation (for cross-platform compatibility)
 
 ## 🚀 Key Business Insights
-* **Device Churn Correlation:** Identified that web-based users (Laptops) show a 15% higher churn rate than Smart TV users, suggesting UI/UX friction points.
-* **Tier Profitability:** Premium users exhibit 2.5x more engagement time, validating the high-value segment strategy.
-* **Retention Hotspots:** Specific regional patterns indicate that engagement drops significantly after the 3rd month of subscription.
+
+* **Top Geographic Market:** **Spain** stands out as the leading revenue contributor, generating a total of **$1.61 million**, highlighting a strong market presence in the European region.
+* **High-Risk Device Segments:** Laptops show the highest churn rate at **20.29%**, followed closely by Mobile devices at **20.09%**. This suggests that portability-focused users are more likely to cancel, potentially due to interface friction on smaller screens.
+* **Revenue Leadership:** The **Standard Plan** is the primary revenue driver, generating **$24.58 million**, significantly outperforming the Premium ($18.71M) and Basic ($18.32M) tiers. It is clearly the "Sweet Spot" for the current user base.
+* **User Engagement:** The platform maintains a strong average usage time of **155 minutes**. This high level of engagement indicates a high-quality content library and a loyal user base.
 
 ## 📁 Project Structure
 ```text
