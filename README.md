@@ -1,5 +1,8 @@
 # Streaming Service Churn & Engagement Analytics 📺📊
 
+## 📊 Dashboard Preview
+![Análisis de Streaming](images/Imagen_Dashboard.png)
+
 ## 🎯 Business Context
 In the highly competitive streaming industry, understanding user retention is critical. This project implements a comprehensive **End-to-End Data Pipeline** designed to ingest raw user interaction logs, process them through a modular ETL architecture, and deliver executive-level insights via an interactive dashboard.
 
